@@ -1,0 +1,9 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "local>netlify-templates/renovate-config"
+  ]
+}
+run nextjs : build/run required job
+always run ： failed job (search) resolvers
+await: wait for next run/echo to introduce changes 
